@@ -11,6 +11,7 @@ ScalaMatsuri             | <http://2017.scalamatsuri.org/>                      
 try! Swift Tokyo         | <https://www.tryswift.co/tokyo/jp>                                                | Tokyo, Japan     | 2017/03/02 - 2017/03/04
 DroidKaigi               | <https://droidkaigi.github.io/2017/>                                              | Tokyo, Japan     | 2017/03/09 - 2017/03/10
 Frontend Conference      | <http://kfug.jp/frontconf2017/>                                                   | Osaka, Japan     | 2017/03/18
+droidcon.vn              | <http://www.droidcon.vn/>                                                         | Ho Chi Min City, Vietnam | 2017/04/15-2017/04/16
 Google Developers Summit | <https://developers-jp.googleblog.com/2016/04/google-developers-summit-2016.html> | Tokyo, Japan     | 2017/04/25 - 2017/04/26
 AWS Summit Tokyo         | <https://aws.amazon.com/jp/summits/>                                              | Tokyo, Japan     | 2017/05/30 - 2017/06/02
 CROSS                    | <http://2017.cross-party.com/>                                                    | Tokyo, Japan     | 2017/09/08
@@ -60,6 +61,7 @@ React Native EU Conference    | <http://react-native.eu/>              | Wroclaw
 
 Title               | URL                                            | Place                                                | Date
 :------------------ | :--------------------------------------------- | :--------------------------------------------------- | :----------------------
+Devoxx US         | <https://devoxx.us/>                         | San Jose, California, USA                          | 2017/03/21 - 2017/03/23
 JazzCon.Tech        | <http://jazzcon.tech/>                         | New Orleans, Louisiana, USA                          | 2017/03/20 - 2017/03/24
 EmberConf           | <http://emberconf.com/>                        | Portland, Oregon, USA                                | 2017/03/28 - 2017/03/28
 SmashingConf        | <https://smashingconf.com/>                    | San Francisco, California, USA                       | 2017/04/04 - 2017/04/05
@@ -71,6 +73,7 @@ Fluent              | <https://conferences.oreilly.com/fluent/fl-ca> | San Jose,
 Chain React         | <https://infinite.red/ChainReactConf>          | Portland, Oregon, USA                                | 2017/07/10 - 2017/07/11
 Connect.Tech        | <http://connect.tech/>                         | Atlanta, Georgia, USA                                | 2017/09/20 - 2017/09/24
 try! Swift New York | <https://www.tryswift.co/events/2017/nyc>      | New York City, New York, USA                         | September, 2017
+JavaOne 2017        | <https://www.oracle.com/javaone/index.html>    | San Francisco, California, USA                       | 2017/10/01-2017/10/05
 AWS re:Invent       | <https://reinvent.awsevents.com/>              | San Francisco, California, USA                       | 2017/11/27 - 2017/12/01
 Confoo Vancouver    | <https://confoo.ca/en/yvr2017>                 | Vancouver, British Columbia, Canada                  | 2017/12/04 - 2017/12/06
 
